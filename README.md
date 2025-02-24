@@ -13,8 +13,8 @@ I'm a passionate software developer with a keen interest in open-source projects
 ![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivam1059&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
-- Email: [your-email@example.com](mailto:your-shivamahirwar9879@gmail.com)
-- LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile)
+- Email: [shivamahirwar9879@gmail.com ](mailto:your-shivamahirwar9879@gmail.com)
+- LinkedIn: [shivamahirwar](https://www.linkedin.com/in/shivam-ahirwar987/)
 - Twitter: [your-twitter-profile](https://twitter.com/your-twitter-profile)
 
 ## 🔗 Let's Connect
